@@ -26,7 +26,7 @@ Dynamic and passionate IT professional with a strong foundation in web developme
   <a href="https://www.linkedin.com/in/JOSHUA NUESCA" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.upwork.com/freelancers/YOUR-UPWORK-USERNAME" target="_blank">
+  <a href="https://www.upwork.com/freelancers/Joshua N." target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 </p>
