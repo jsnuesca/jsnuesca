@@ -23,10 +23,10 @@ Dynamic and passionate IT professional with a strong foundation in web developme
 ## <p align="center">Other Portfolios/Platforms</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/joshua-nuesca-6966982aa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.upwork.com/freelancers/yourprofile">
+  <a href="[https://www.upwork.com/freelancers/yourprofile](https://www.upwork.com/freelancers/~01767df8e965929795?mp_source=share)">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 </p>
