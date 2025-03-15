@@ -1,6 +1,6 @@
 <h1 align="center">Joshua S. Nuesca</h1>
 
-Actively expanding my professional portfolio on GitHub, LinkedIn, and Upwork, specializing in Front-End and Back-End Development. Skilled in web technologies, database management, and software development principles.
+Dynamic and passionate IT professional with a strong foundation in web development, programming, and SQL. Skilled in problem-solving and optimizing workflows to create efficient solutions. Adept at collaborating with teams and eager to learn and grow in a dynamic environment. Excited to contribute technical skills and adaptability to a forward-thinking company.
 
 ## Technologies and Tools
 
