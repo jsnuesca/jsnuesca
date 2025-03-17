@@ -1,6 +1,6 @@
 <h1 align="center">Joshua S. Nuesca</h1>
 
-Dynamic and passionate IT professional with a strong foundation in web development, programming, and SQL. Skilled in problem-solving and optimizing workflows to create efficient solutions. Adept at collaborating with teams and eager to learn and grow in a dynamic environment. Excited to contribute technical skills and adaptability to a forward-thinking company.
+Font-End Developer, I love designing and turning them into code.
 
 ## Technologies and Tools
 
